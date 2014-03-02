@@ -12,7 +12,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un fork req
 
 Aquí las listas hasta el momento:
 
-h2. Javasacript
+##Javasacript
 
 * [Javascript Design Patterns - Addy Osmain](http://addyosmani.com/res.../essentialjsdesignpatterns/book/)
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden)
