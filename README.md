@@ -18,7 +18,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un fork req
 * [Javascript](javascript.md)
 * [PHP](php.md) :heavy_exclamation_mark:
 * [Python](python.md) :heavy_exclamation_mark:
-* [Ruby](ruby.md) :heavy_exclamation_mark:
+* [Ruby](ruby.md)
 * [Scala](scala.md) :heavy_exclamation_mark:
 * [VB.NET](vb_net.md) :heavy_exclamation_mark:
 
