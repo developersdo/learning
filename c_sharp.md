@@ -1,4 +1,4 @@
-##C#
+##C Sharp (#)
 
 C# es un lenguaje de programación moderno, de alto nivel, múltiples paradigmas y de uso general para crear aplicaciones con Visual Studio y .NET Framework. Visual C# se diseñó para que fuera simple, poderoso, seguro y orientado a objetos. Es uno de los lenguajes del .NET Framework y Corre dentro del CLR _(citation needed)_
 
