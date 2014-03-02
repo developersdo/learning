@@ -12,20 +12,20 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un fork req
 
 ###Lenguajes:
 
-* [C/C++](c_and_cpp.md)
-* [C#](c_sharp.md)
+* [C/C++](c_and_cpp.md) :heavy_exclamation_mark:
+* [C#](c_sharp.md) :heavy_exclamation_mark:
 * [Javascript](javascript.md)
-* [PHP](php.md)
-* [Python](python.md)
-* [Ruby](ruby.md)
-* [Scala](scala.md)
-* [VB.NET](vb_net.md)
+* [PHP](php.md) :heavy_exclamation_mark:
+* [Python](python.md) :heavy_exclamation_mark:
+* [Ruby](ruby.md) :heavy_exclamation_mark:
+* [Scala](scala.md) :heavy_exclamation_mark:
+* [VB.NET](vb_net.md) :heavy_exclamation_mark:
 
 ###Web Frameworks
-* [ASP.NET](asp_net.md)
-* [CakePHP](cake_php.md)
-* [Django](django.md)
-* [ExpressJS](express.md)
-* [Flask](flask.md)
-* [Laravel](laravel.md)
-* [Ruby on Rails](ror.md)
+* [ASP.NET](asp_net.md) :heavy_exclamation_mark:
+* [CakePHP](cake_php.md) :heavy_exclamation_mark:
+* [Django](django.md) :heavy_exclamation_mark:
+* [ExpressJS](express.md) :heavy_exclamation_mark:
+* [Flask](flask.md) :heavy_exclamation_mark:
+* [Laravel](laravel.md) :heavy_exclamation_mark:
+* [Ruby on Rails](ror.md) :heavy_exclamation_mark:
