@@ -6,12 +6,12 @@ C# es un lenguaje de programación moderno, de alto nivel, múltiples paradigmas y
 * [C# Fundamentals for Absolute Beginners](http://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners)
 * [MSDN - Getting Started with C# and VB.NET](http://msdn.microsoft.com/library/vstudio/dd492171(v=vs.120))
 * [What VB Developers should know about C#](http://visualstudiomagazine.com/articles/2008/12/01/what-vb-devs-should-know-about-c.aspx)
-* :moneybag: [Pluralsight - C# 5.0 Fundamentals](http://pluralsight.com/training/Courses/TableOfContents/csharp-fundamentals-csharp5)
+* [Pluralsight - C# 5.0 Fundamentals](http://pluralsight.com/training/Courses/TableOfContents/csharp-fundamentals-csharp5) :moneybag:
 
 ###Recursos sobre temas más específicos
 * [101 linq Samples](http://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
 * [Language Features, from 2.0 to 4.0](http://www.codeproject.com/Articles/327916/C-Language-Features-From-C-2-0-to-4-0)
 
 ###Libros
-* :moneybag: [C# In Depth - John Skeet](http://www.amazon.com/Depth-3rd-Edition-Jon-Skeet/dp/161729134X/ref=sr_1_2?ie=UTF8&qid=1393792476&sr=8-2&keywords=C%23)
-* :moneybag: [C# In a Nutshell - Joseph Albahari](http://www.amazon.com/5-0-Nutshell-The-Definitive-Reference/dp/1449320104/ref=sr_1_1?ie=UTF8&qid=1393792476&sr=8-1&keywords=C%23)
+* [C# In Depth - John Skeet (Amazon US$ ~33)](http://www.amzn.com/161729134X) :moneybag: 
+* [C# In a Nutshell - Joseph Albahari (Amazon US$ ~30)](http://www.amzn.com/1449320104) :moneybag: 

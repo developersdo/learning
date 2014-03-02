@@ -9,5 +9,5 @@ Documentación Oficial: https://developer.mozilla.org/en/docs/Web/JavaScript
 * [Javascript Design Patterns - Addy Osmain](http://addyosmani.com/res.../essentialjsdesignpatterns/book/)
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden)
 * [Eloquent Javascript](http://eloquentjavascript.net/contents.html)
-* [Javascript: The Good Parts - Douglas Crockford (Amazon.com ~US$18)](http://amzn.com/0596517742) 
-* [Secrets of the Javascript ninja - Jon Resig (Amazon.com ~US$25)](http://amzn.com/193398869X)
+* [Javascript: The Good Parts - Douglas Crockford (Amazon.com US$ ~18)](http://amzn.com/0596517742) :moneybag: 
+* [Secrets of the Javascript ninja - Jon Resig (Amazon.com US$ ~25)](http://amzn.com/193398869X) :moneybag: 
