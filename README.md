@@ -12,11 +12,10 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un fork req
 
 Aquí las listas hasta el momento:
 
-##Javasacript
+##Javascript
 
 * [Javascript Design Patterns - Addy Osmain](http://addyosmani.com/res.../essentialjsdesignpatterns/book/)
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden)
 * [Eloquent Javascript](http://eloquentjavascript.net/contents.html)
-* [Free js Books](http://jsbooks.revolunet.com/)
-* Javascript the good parts - Douglas Crockford - [Amazon ~US$18](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1393779960&sr=8-1&keywords=javascript+the+good+parts)
-* Secrets of the Javascript ninja - Jon Resig - [Amazon ~US$25](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X)
+* [Javascript: The Good Parts - Douglas Crockford](http://amzn.com/0596517742) 
+* [Secrets of the Javascript ninja - Jon Resig](http://amzn.com/193398869X)
