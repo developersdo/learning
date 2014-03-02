@@ -10,12 +10,22 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un fork req
 * Si trabajas en un lenguaje que todavía no está en la lista, crea una categoría y comienza a llenar ahí. 
 * Si encuentras que un enlace está malo, por favor corrígelo. Si el recurso ya no existe bórralo de la lista. 
 
-Aquí las listas hasta el momento:
+###Lenguajes:
 
-##Javascript
+* [C/C++](c_and_cpp.md)
+* [C#](c_sharp.md)
+* [Javascript](javascript.md)
+* [PHP](php.md)
+* [Python](python.md)
+* [Ruby](ruby.md)
+* [Scala](scala.md)
+* [VB.NET](vb_net.md)
 
-* [Javascript Design Patterns - Addy Osmain](http://addyosmani.com/res.../essentialjsdesignpatterns/book/)
-* [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden)
-* [Eloquent Javascript](http://eloquentjavascript.net/contents.html)
-* [Javascript: The Good Parts - Douglas Crockford (Amazon.com ~US$18)](http://amzn.com/0596517742) 
-* [Secrets of the Javascript ninja - Jon Resig (Amazon.com ~US$25)](http://amzn.com/193398869X)
+###Web Frameworks
+* [ASP.NET](asp_net.md)
+* [CakePHP](cake_php.md)
+* [Django](django.md)
+* [ExpressJS](express.md)
+* [Flask](flask.md)
+* [Laravel](laravel.md)
+* [Ruby on Rails](ror.md)
