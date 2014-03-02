@@ -13,7 +13,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un fork req
 ###Lenguajes:
 
 * [C/C++](c_and_cpp.md) :heavy_exclamation_mark:
-* [C#](c_sharp.md) :heavy_exclamation_mark:
+* [C#](c_sharp.md)
 * [Java](java.md) :heavy_exclamation_mark:
 * [Javascript](javascript.md)
 * [PHP](php.md) :heavy_exclamation_mark:
