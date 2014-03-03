@@ -1,3 +1,3 @@
 ##C/C++
 
-###En construcción
+http://www.cplusplus.com/doc/tutorial/
