@@ -12,29 +12,29 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un fork req
 
 ###Lenguajes:
 
-* [C/C++](c_and_cpp.md) :heavy_exclamation_mark:
-* [C#](c_sharp.md)
-* [Java](java.md) :heavy_exclamation_mark:
-* [Javascript](javascript.md)
-* [PHP](php.md) :heavy_exclamation_mark:
-* [Python](python.md) :heavy_exclamation_mark:
-* [Ruby](ruby.md)
-* [Scala](scala.md) :heavy_exclamation_mark:
-* [VB.NET](vb_net.md) :heavy_exclamation_mark:
+* [C/C++](Lenguajes/c_and_cpp.md) :heavy_exclamation_mark:
+* [C#](Lenguajes/c_sharp.md)
+* [Java](Lenguajes/java.md) :heavy_exclamation_mark:
+* [Javascript](Lenguajes/javascript.md)
+* [PHP](Lenguajes/php.md) :heavy_exclamation_mark:
+* [Python](Lenguajes/python.md) :heavy_exclamation_mark:
+* [Ruby](Lenguajes/ruby.md)
+* [Scala](Lenguajes/scala.md) :heavy_exclamation_mark:
+* [VB.NET](Lenguajes/vb_net.md) :heavy_exclamation_mark:
 
 ###Server-side Web Frameworks
-* [ASP.NET](asp_net.md) :heavy_exclamation_mark:
-* [CakePHP](cake_php.md) :heavy_exclamation_mark:
-* [Django](django.md) :heavy_exclamation_mark:
-* [ExpressJS](express.md) :heavy_exclamation_mark:
-* [Flask](flask.md) :heavy_exclamation_mark:
-* [Laravel](laravel.md) :heavy_exclamation_mark:
-* [Ruby on Rails](ror.md) :heavy_exclamation_mark:
+* [ASP.NET](Web Frameworks/asp_net.md) :heavy_exclamation_mark:
+* [CakePHP](Web Frameworks/cake_php.md) :heavy_exclamation_mark:
+* [Django](Web Frameworks/django.md) :heavy_exclamation_mark:
+* [ExpressJS](Web Frameworks/express.md) :heavy_exclamation_mark:
+* [Flask](Web Frameworks/flask.md) :heavy_exclamation_mark:
+* [Laravel](Web Frameworks/laravel.md) :heavy_exclamation_mark:
+* [Ruby on Rails](Web Frameworks/ror.md) :heavy_exclamation_mark:
 
 ###Technology Frameworks
-* [Node.js](nodejs.md)
-* [.NET Framework](dotnet_framework.md) :heavy_exclamation_mark:
-* [Java Virtual Machine](jvm.md) :heavy_exclamation_mark: 
+* [Node.js](Frameworks/nodejs.md)
+* [.NET Framework](Frameworks/dotnet_framework.md) :heavy_exclamation_mark:
+* [Java Virtual Machine](Frameworks/jvm.md) :heavy_exclamation_mark: 
 
 ###Platforms-as-a-service
 * Amazon Web Services :heavy_exclamation_mark:
