@@ -17,6 +17,7 @@ C# es un lenguaje de programación moderno, de alto nivel, múltiples paradigmas
 
 ###Recursos sobre temas específicos
 * [101 linq Samples](http://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+* [Getting started with Entity Framework 6 and MVC5](http://www.asp.net/mvc/tutorials/getting-started-with-ef-using-mvc)
 * [Language Features, from 2.0 to 4.0](http://www.codeproject.com/Articles/327916/C-Language-Features-From-C-2-0-to-4-0)
 * [Pluralsight - Build End-To-End Multi-Client Service Oriented Application](http://pluralsight.com/training/courses/TableOfContents?courseName=building-multi-client-end-to-end-service-oriented-applications):moneybag:
 
