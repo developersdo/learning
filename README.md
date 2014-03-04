@@ -27,7 +27,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un fork req
 * [ASP.NET](Web Frameworks/asp_net.md) :heavy_exclamation_mark:
 * [CakePHP](Web Frameworks/cake_php.md) :heavy_exclamation_mark:
 * [Django](Web Frameworks/django.md) :heavy_exclamation_mark:
-* [ExpressJS](Web Frameworks/express.md) :heavy_exclamation_mark:
+* [ExpressJS](Web Frameworks/express.md)
 * [Flask](Web Frameworks/flask.md) :heavy_exclamation_mark:
 * [Laravel](Web Frameworks/laravel.md) :heavy_exclamation_mark:
 * [Ruby on Rails](Web Frameworks/ror.md) :heavy_exclamation_mark:
