@@ -1,3 +1,3 @@
 ##Ruby on Rails
 
-###En construcción
+* [RailsCasts - Ryan Bates (US$9/Month)](http://www.railscasts.com) :moneybag:
