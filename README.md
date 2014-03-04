@@ -30,3 +30,30 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un fork req
 * [Flask](flask.md) :heavy_exclamation_mark:
 * [Laravel](laravel.md) :heavy_exclamation_mark:
 * [Ruby on Rails](ror.md) :heavy_exclamation_mark:
+
+###Technology Frameworks
+* [Node.js](nodejs.md)
+* [.NET Framework](dotnet_framework.md) :heavy_exclamation_mark:
+* [Java Virtual Machine](jvm.md) :heavy_exclamation_mark: 
+
+###Platforms-as-a-service
+* Amazon Web Services :heavy_exclamation_mark:
+* Azure :heavy_exclamation_mark:
+* Engine Yard :heavy_exclamation_mark:
+* Heroku :heavy_exclamation_mark:
+* Nodejitsu :heavy_exclamation_mark:
+
+###SQL Databases
+* [MySQL](mysql.md) :heavy_exclamation_mark:
+* [Oracle](oracle.md) :heavy_exclamation_mark:
+* [Postgress](postgress) :heavy_exclamation_mark:
+* [SQL Server](sql_server.md) :heavy_exclamation_mark:
+* [SQL Lite](sql_lite.md) :heavy_exclamation_mark:
+
+###NO-SQL Data Stores
+* [Azure Table Storage](azure_table_storage.md) :heavy_exclamation_mark:
+* [CouchDb](couchdb.md) :heavy_exclamation_mark:
+* [Cassandra](cassandra.md) :heavy_exclamation_mark:
+* [Hadoop](hadoop.md) :heavy_exclamation_mark:
+* [Mongo](mongo.md) :heavy_exclamation_mark:
+* [Redis](redis.md) :heavy_exclamation_mark:
