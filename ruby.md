@@ -15,7 +15,7 @@ Ruby un lenguaje de programación dinámico y de código abierto enfocado en la 
 * [Codeschool - Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
 * [Codeschool - Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2)
 * [Ruby Tapas Screencast - Advi Grimm (US$9/month)](http://www.rubytapas.com/) :moneybag:
-* [RailsCasts - Ryan Bates (US$9/Month)](http://www.railscasts.com) :moneybag:
+
 
 #### Otros
 * [Ruby Koans](http://rubykoans.com/)
