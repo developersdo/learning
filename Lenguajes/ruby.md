@@ -10,6 +10,7 @@ Documentación Oficial: http://www.ruby-doc.org
 * [Practical Object-Oriented Design in Ruby: An Agile Primer - Sandi (Amazon.com ~US$29) Metz ](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?ie=UTF8&qid=1393795210&sr=8-1&keywords=practical+object-oriented+design+in+ruby) :moneybag:
 * [Eloquent Ruby - Russ Olsen (Amazon ~$33)](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104/ref=sr_1_3?ie=UTF8&qid=1393795210&sr=8-3&keywords=practical+object-oriented+design+in+ruby) :moneybag:
 * [Programming Ruby: The Pragmatic Programmers' Guide - Dave Thomas, with Chad Fowler and Andy Hunt (~US$25)](http://pragprog.com/book/ruby/programming-ruby) :moneybag:
+* [Metaprogramming Ruby: Program Like the Ruby Pros (~US$23)](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros/dp/1934356476) :moneybag:
   
 #### Videos
 * [Codeschool - Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
