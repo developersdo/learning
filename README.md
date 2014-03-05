@@ -29,8 +29,14 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un fork req
 * [Django](Web Frameworks/django.md) :heavy_exclamation_mark:
 * [ExpressJS](Web Frameworks/express.md)
 * [Flask](Web Frameworks/flask.md) :heavy_exclamation_mark:
-* [Laravel](Web Frameworks/laravel.md) :heavy_exclamation_mark:
+* [Laravel](Web Frameworks/laravel.md)
 * [Ruby on Rails](Web Frameworks/ror.md) :heavy_exclamation_mark:
+
+###Frontend Frameworks
+* [Angular JS](Web Frameworks/Frontend Frameworks/angularjs.md) :heavy_exclamation_mark:
+* [Backbone JS](Web Frameworks/Frontend Frameworks/backbonejs.md) :heavy_exclamation_mark:
+* [Ember JS](Web Frameworks/Frontend Frameworks/emberjs.md) :heavy_exclamation_mark:
+* [Knockout JS](Web Frameworks/Frontend Frameworks/knockoutjs.md) :heavy_exclamation_mark:
 
 ###Technology Frameworks
 * [Node.js](Frameworks/nodejs.md)
