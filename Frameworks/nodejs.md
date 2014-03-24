@@ -7,3 +7,5 @@ Documentación oficial: http://nodejs.org/
 ####Tutoriales
 
 * [Learn all the nodes](http://www.learnallthenodes.com/)
+* [Introducción a NodeJS a traves de Koans](http://nodejskoans.com/)
+Libro bastante bueno, lo recomiendo.
