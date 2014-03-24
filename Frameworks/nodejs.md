@@ -8,4 +8,6 @@ Documentación oficial: http://nodejs.org/
 
 * [Learn all the nodes](http://www.learnallthenodes.com/)
 * [Introducción a NodeJS a traves de Koans](http://nodejskoans.com/)
-Libro bastante bueno, lo recomiendo.
+
+####Libros
+* [Node.js the right way](http://pragprog.com/book/jwnode/node-js-the-right-way) :moneybag: 
