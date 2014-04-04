@@ -32,7 +32,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Laravel](Web Frameworks/laravel.md)
 * [Ruby on Rails](Web Frameworks/ror.md) :heavy_exclamation_mark:
 
-###Fron-tend Frameworks
+###Front-end Frameworks
 * [Angular JS](Web Frameworks/Frontend Frameworks/angularjs.md) :heavy_exclamation_mark:
 * [Backbone JS](Web Frameworks/Frontend Frameworks/backbonejs.md) :heavy_exclamation_mark:
 * [Ember JS](Web Frameworks/Frontend Frameworks/emberjs.md) :heavy_exclamation_mark:
