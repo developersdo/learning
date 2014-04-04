@@ -15,7 +15,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 
 * [C/C++](Lenguajes/c_and_cpp.md) :heavy_exclamation_mark:
 * [C#](Lenguajes/c_sharp.md)
-* [Java](Lenguajes/java.md) :heavy_exclamation_mark:
+* [Java](Lenguajes/java.md)
 * [Javascript](Lenguajes/javascript.md)
 * [PHP](Lenguajes/php.md) :heavy_exclamation_mark:
 * [Python](Lenguajes/python.md) :heavy_exclamation_mark:
