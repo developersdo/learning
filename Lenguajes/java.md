@@ -15,6 +15,7 @@ El lenguaje se denominó inicialmente Oak (por un roble que había fuera de la o
 * [Thinking in Java, 3rd Edition] (http://www.amazon.com/exec/obidos/ISBN=0131002872/bruceeckelA/) :moneybag:
 
 ###Intermedios
+* [Head First Servlets and JSP, 2nd Edition] (http://shop.oreilly.com/product/9780596516680.do)
 
 
 ###Avanzados
