@@ -22,6 +22,6 @@ C# es un lenguaje de programación moderno, de alto nivel, múltiples paradigmas
 * [Pluralsight - Build End-To-End Multi-Client Service Oriented Application](http://pluralsight.com/training/courses/TableOfContents?courseName=building-multi-client-end-to-end-service-oriented-applications):moneybag:
 
 ###Libros
-* [C# In Depth - John Skeet (Amazon US$ ~33)](http://www.amzn.com/161729134X) :moneybag: 
-* [C# In a Nutshell - Joseph Albahari (Amazon US$ ~30)](http://www.amzn.com/1449320104) :moneybag: 
-* [Programming WCF Services - Juval Lowy (Amazon US$ ~19.79)](http://ASIN.cc/BTYBxA) :moneybag:
+* [C# In Depth - John Skeet (Amazon)](http://www.amzn.com/161729134X) :moneybag: 
+* [C# In a Nutshell - Joseph Albahari (Amazon)](http://www.amzn.com/1449320104) :moneybag: 
+* [Programming WCF Services - Juval Lowy (Amazon)](http://ASIN.cc/BTYBxA) :moneybag:
