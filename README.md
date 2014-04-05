@@ -67,6 +67,6 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
  
 ###Software Architecture
 * [Diseño](Software Architecture/design.md)
-* [Metodologias](Software Architecture/methodologies.md) :heavy_exclamation_mark:
+* [Metodologias](Software Architecture/methodologies.md)
 * [Prueba](Software Architecture/testing.md) :heavy_exclamation_mark:
 * [Deployment](Software Architecture/deployment.md) :heavy_exclamation_mark:
