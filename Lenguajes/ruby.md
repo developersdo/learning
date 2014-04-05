@@ -15,7 +15,7 @@ Documentación Oficial: http://www.ruby-doc.org
 #### Videos
 * [Codeschool - Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
 * [Codeschool - Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2)
-* [Ruby Tapas Screencast - Advi Grimm (US$9/month)](http://www.rubytapas.com/) :moneybag:
+* [Ruby Tapas Screencast - Advi Grimm](http://www.rubytapas.com/) :moneybag:
 
 
 #### Otros
