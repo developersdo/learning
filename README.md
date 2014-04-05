@@ -64,3 +64,9 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Hadoop](hadoop.md) :heavy_exclamation_mark:
 * [Mongo](mongo.md) :heavy_exclamation_mark:
 * [Redis](redis.md) :heavy_exclamation_mark:
+ 
+###Software Architecture
+* [Diseño](design.md) :heavy_exclamation_mark:
+* [Metodologias](methodologies.md) :heavy_exclamation_mark:
+* [Prueba](testing.md) :heavy_exclamation_mark:
+* [Deployment](deployment.md) 
