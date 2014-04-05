@@ -1,4 +1,4 @@
-##Metodologìas de Desarrollo de Software
+##Metodologías de Desarrollo de Software
 
 Una metodología de desarrollo de software se refiere a un framework que es usado para estructurar, 
 planear y controlar el proceso de desarrollo en sistemas de información.
