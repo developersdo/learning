@@ -13,7 +13,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 
 ###Lenguajes:
 
-* [C/C++](Lenguajes/c_and_cpp.md) :heavy_exclamation_mark:
+* [C/C++](Lenguajes/c_and_cpp.md)
 * [C#](Lenguajes/c_sharp.md)
 * [Java](Lenguajes/java.md)
 * [Javascript](Lenguajes/javascript.md)

@@ -1,16 +1,16 @@
 ##Javascript
 
-JavaScript (a veces abreviado como JS) es un lenguaje ligero e interpretado, orientado a objetos, m√°s conocido como el lenguaje de script para p√°ginas web, pero tambi√©n usado en muchos entornos sin navegador (el m√°s conocido siendo NodeJS). 
+JavaScript (a veces abreviado como JS) es un lenguaje ligero e interpretado, orientado a objetos, m·s conocido como el lenguaje de script para p·ginas web, pero tambiÈn usado en muchos entornos sin navegador (el m·s conocido siendo NodeJS). 
 
-Documentaci√≥n Oficial: https://developer.mozilla.org/en/docs/Web/JavaScript
+DocumentaciÛn Oficial: https://developer.mozilla.org/en/docs/Web/JavaScript
 
 ###Algunos recursos
 
-* [Javascript Design Patterns - Addy Osmain](http://addyosmani.com/res.../essentialjsdesignpatterns/book/)
-* [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden)
-* [Eloquent Javascript](http://eloquentjavascript.net/contents.html)
+* [Javascript Design Patterns - Addy Osmain](http://addyosmani.com/res.../essentialjsdesignpatterns/book/) :broken_heart:
+* [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden) :free:
+* [Eloquent Javascript](http://eloquentjavascript.net/contents.html) :free:
 * [Javascript: The Good Parts - Douglas Crockford (Amazon.com)](http://amzn.com/0596517742) :moneybag: 
-* [Secrets of the Javascript ninja - Jon Resig (Amazon.com)](http://amzn.com/193398869X) :moneybag: 
+* [Secrets of the Javascript ninja - Jon Resig (Amazon.com)](http://amzn.com/193398869X) :moneybag:
 
 ###Tutoriales para principiantes :smirk_cat:
 * [Code Academy - Javascript Track](http://www.codecademy.com/tracks/javascript)

@@ -9,6 +9,6 @@ C++ es un lenguaje de programación diseñado a mediados de los años 1980 por B
 ------
 
 ####Algunos recursos
-* [Learn C the hard way](http://c.learncodethehardway.org/)
-* [C/C++ Reference](http://en.cppreference.com/w/)
-* [Piensa en C,Osvaldo Cairo](http://books.google.com.do/books?id=AZ1ZXBlu9Y8C)
+* [Learn C the hard way](http://c.learncodethehardway.org/) :free:
+* [C/C++ Reference](http://en.cppreference.com/w/) :free:
+* [Piensa en C,Osvaldo Cairo](http://books.google.com.do/books?id=AZ1ZXBlu9Y8C) :free:
