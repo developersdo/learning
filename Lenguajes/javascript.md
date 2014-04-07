@@ -1,12 +1,12 @@
 ##Javascript
 
-JavaScript (a veces abreviado como JS) es un lenguaje ligero e interpretado, orientado a objetos, más conocido como el lenguaje de script para páginas web, pero también usado en muchos entornos sin navegador (el más conocido siendo NodeJS). 
+JavaScript (a veces abreviado como JS) es un lenguaje ligero e interpretado, orientado a objetos, mï¿½s conocido como el lenguaje de script para pï¿½ginas web, pero tambiï¿½n usado en muchos entornos sin navegador (el mï¿½s conocido siendo NodeJS). 
 
-Documentación Oficial: https://developer.mozilla.org/en/docs/Web/JavaScript
+Documentaciï¿½n Oficial: https://developer.mozilla.org/en/docs/Web/JavaScript
 
 ###Algunos recursos
 
-* [Javascript Design Patterns - Addy Osmain](http://addyosmani.com/res.../essentialjsdesignpatterns/book/) :broken_heart:
+* [Learning Javascript Design Patterns - Addy Osmain](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden) :free:
 * [Eloquent Javascript](http://eloquentjavascript.net/contents.html) :free:
 * [Javascript: The Good Parts - Douglas Crockford (Amazon.com)](http://amzn.com/0596517742) :moneybag: 
