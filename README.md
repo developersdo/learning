@@ -70,3 +70,4 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Metodologías](Software Architecture/methodologies.md)
 * [Prueba](Software Architecture/testing.md) :heavy_exclamation_mark:
 * [Deployment](Software Architecture/deployment.md) :heavy_exclamation_mark:
+* [Refactorización](Software Architecture/refactoring.md)
