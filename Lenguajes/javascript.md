@@ -1,8 +1,8 @@
 ##Javascript
 
-JavaScript (a veces abreviado como JS) es un lenguaje ligero e interpretado, orientado a objetos, m�s conocido como el lenguaje de script para p�ginas web, pero tambi�n usado en muchos entornos sin navegador (el m�s conocido siendo NodeJS). 
+JavaScript (a veces abreviado como JS) es un lenguaje ligero e interpretado, orientado a objetos, más conocido como el lenguaje de script para páginas web, pero también usado en muchos entornos sin navegador (el más conocido siendo NodeJS). 
 
-Documentaci�n Oficial: https://developer.mozilla.org/en/docs/Web/JavaScript
+Documentación Oficial: https://developer.mozilla.org/en/docs/Web/JavaScript
 
 ###Algunos recursos
 
