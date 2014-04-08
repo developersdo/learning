@@ -24,7 +24,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [VB.NET](Lenguajes/vb_net.md) :heavy_exclamation_mark:
 
 ###Server-side Web Frameworks
-* [ASP.NET](Web Frameworks/asp_net.md) :heavy_exclamation_mark:
+* [ASP.NET](Web Frameworks/asp_net.md)
 * [CakePHP](Web Frameworks/cake_php.md) :heavy_exclamation_mark:
 * [Django](Web Frameworks/django.md) :heavy_exclamation_mark:
 * [ExpressJS](Web Frameworks/express.md)
