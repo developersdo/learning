@@ -1,9 +1,9 @@
 ##PHP
-PHP es un lenguaje de programación de uso general de código del lado del servidor originalmente diseñado para el desarrollo web de contenido dinámico. Fue uno de los primeros lenguajes de programación del lado del servidor que se podían incorporar directamente en el documento HTML en lugar de llamar a un archivo externo que procese los datos. El código es interpretado por un servidor web con un módulo de procesador de PHP que genera la página Web resultante. PHP ha evolucionado por lo que ahora incluye también una interfaz de línea de comandos que puede ser usada en aplicaciones gráficas independientes. Puede ser usado en la mayoría de los servidores web al igual que en casi todos los sistemas operativos y plataformas sin ningún costo.
+PHP es un lenguaje de programaciÃ³ de uso general de cÃ³digo del lado del servidor originalmente diseÃ±ado para el desarrollo web de contenido dinÃ¡mico. Fue uno de los primeros lenguajes de programaciÃ³n del lado del servidor que se podÃ­an incorporar directamente en el documento HTML en lugar de llamar a un archivo externo que procese los datos. El cÃ³digo es interpretado por un servidor web con un mÃ³dulo de procesador de PHP que genera la pÃ¡gina Web resultante. PHP ha evolucionado por lo que ahora incluye tambiÃ©n una interfaz de lÃ­nea de comandos que puede ser usada en aplicaciones grÃ¡ficas independientes. Puede ser usado en la mayorÃ­a de los servidores web al igual que en casi todos los sistemas operativos y plataformas sin ningÃºn costo.
 
-Fue creado originalmente por Rasmus Lerdorf en 1995. Actualmente el lenguaje sigue siendo desarrollado con nuevas funciones por el grupo PHP. Este lenguaje forma parte del software libre publicado bajo la licencia PHP, que es incompatible con la Licencia Pública General de GNU debido a las restricciones del uso del término PHP.
+Fue creado originalmente por Rasmus Lerdorf en 1995. Actualmente el lenguaje sigue siendo desarrollado con nuevas funciones por el grupo PHP. Este lenguaje forma parte del software libre publicado bajo la licencia PHP, que es incompatible con la Licencia PÃºblica General de GNU debido a las restricciones del uso del tÃ©rmino PHP.
 
 ###Recursos para Principiantes.
-* [PHP.net](http://www.php.net/)
-* [w3schools](http://www.w3schools.com/PHP/)
-* [Codeacademy](http://www.codecademy.com/tracks/php)
+* [PHP.net](http://www.php.net/) :free:
+* [w3schools](http://www.w3schools.com/PHP/) :free:
+* [Codeacademy](http://www.codecademy.com/tracks/php) :free:
