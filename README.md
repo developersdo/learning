@@ -20,7 +20,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [PHP](Lenguajes/php.md) :heavy_exclamation_mark:
 * [Python](Lenguajes/python.md) :heavy_exclamation_mark:
 * [Ruby](Lenguajes/ruby.md)
-* [Scala](Lenguajes/scala.md) :heavy_exclamation_mark:
+* [Scala](Lenguajes/scala.md)
 * [VB.NET](Lenguajes/vb_net.md) :heavy_exclamation_mark:
 
 ###Server-side Web Frameworks
