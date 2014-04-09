@@ -5,6 +5,7 @@ escalables basadas en estándares, utilizando patrones de diseño bien estableci
 y el poder de ASP.NET y .NET Framework.
 
 Sitio Oficial: http://www.asp.net/get-started
+
 Wikipedia: http://en.wikipedia.org/wiki/ASP.NET
 
 Existen muchas implementaciones dentro de ASP.NET que permiten la creación de
@@ -39,9 +40,10 @@ Es la implementación de Microsoft del patron
 [Model-View-Controller](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) para
 ASP.NET.
 
-* **El modelo** representa el estado de un aspecto particular de la aplicación.
-* **El controlador** maneja las interacciones y actualiza el modelo para reflejar cambios en la aplicación
-* **Los views** son responsables de presentar la información al usuario final
+**El modelo** representa el estado de un aspecto particular de la aplicación.
+**El controlador** maneja las interacciones y actualiza el modelo para reflejar cambios en la aplicación.
+**Los views** son responsables de presentar la información al usuario final a partir de un model.
+
 
 * [ASP.NET MVC Overview - ASP.NET](http://www.asp.net/mvc/tutorials/older-versions/overview/asp-net-mvc-overview)
 * [Getting started with ASP.NET MVC 5](http://www.asp.net/mvc/tutorials/mvc-5/introduction/getting-started)
