@@ -1,4 +1,4 @@
-##Entrepeneurship
+##Emprendurismo Tecnológico
 
 Algunos libros relacionados con el tema del emprendimiento
 
