@@ -1,4 +1,4 @@
-##JSF
+##JavaServer Faces
 
 JavaServer Faces (JSF) is a Java specification for building component-based user interfaces for web applications.
 It was formalized as a standard through the Java Community Process and is part of the Java Platform, Enterprise Edition.
