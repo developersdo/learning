@@ -3,10 +3,6 @@
 Java is a set of several computer software products and specifications from Oracle (which has since merged with Oracle Corporation), 
 that together provide a system for developing application software and deploying it in a cross-platform computing environment. 
 
-Java is used in a wide variety of computing platforms from embedded devices and mobile phones on the low end, to enterprise servers and 
-supercomputers on the high end. While less common, Java applets are sometimes used to provide improved and secure functions while browsing 
-the World Wide Web on desktop computers.
-
 The success of Java and its write once, run anywhere concept has led to other similar efforts, notably the .NET Framework, appearing since 2002, 
 which incorporates many of the successful aspects of Java. .NET in its complete form (Microsoft's implementation) is currently only fully available 
 on Windows platforms, whereas Java is fully available on many platforms. .NET was built from the ground-up to support multiple programming languages, 
