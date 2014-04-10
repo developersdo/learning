@@ -20,7 +20,7 @@ y el CLR en conjunto constituyen el .NET Framework.
 * [Visual Basic](vb_net_lang "Recursos especializados del lenguaje Visual Basic")
 
 #### Frameworks
-* [Web](web_framework_asp_net.md)
+* [Web](web_framework_asp_net)
 * [Async Programming](async_programming.md)
 
 ####Recursos
