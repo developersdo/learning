@@ -15,7 +15,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 
 * [C/C++](C C%2B%2B "Recursos para C/C++")
 * [C#](DOT_NET/c_sharp_lang "recursos para el lenguaje C# de Microsoft")
-* [Java](jvm/Java)
+* [Java](Java)
 * [Javascript](Javascript/README.md)
 * [PHP](PHP) :heavy_exclamation_mark:
 * [Python](Python) :heavy_exclamation_mark:
