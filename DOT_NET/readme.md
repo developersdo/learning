@@ -15,6 +15,14 @@ que no es más que una máquina virtual que provee servicios de: seguridad,
 manejo automatizado de memoria, y manejo de excepciones. La librería de clases
 y el CLR en conjunto constituyen el .NET Framework.
 
+####Lenguajes 
+* [C#](c_sharp_lang "Recursos especializados del lenguaje C#")
+* [Visual Basic](vb_net_lang "Recursos especializados del lenguaje Visual Basic")
+
+#### Frameworks
+* [Web](web_framework_asp_net)
+* [Async Programming](async_programming.md)
+
 ####Recursos
 
 * [Overview of the .NET Framework - MSDN](http://msdn.microsoft.com/en-us/library/zw4w595w.aspx)
