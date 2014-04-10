@@ -15,12 +15,12 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 
 * [C/C++](C C%2B%2B "Recursos para C/C++")
 * [C#](DOT_NET/c_sharp_lang "recursos para el lenguaje C# de Microsoft")
-* [Java](Lenguajes/java.md)
-* [Javascript](Lenguajes/javascript.md)
-* [PHP](Lenguajes/php.md) :heavy_exclamation_mark:
-* [Python](Lenguajes/python.md) :heavy_exclamation_mark:
-* [Ruby](Lenguajes/ruby.md)
-* [Scala](Lenguajes/scala.md)
+* [Java](java)
+* [Javascript](javascript)
+* [PHP](php) :heavy_exclamation_mark:
+* [Python](python) :heavy_exclamation_mark:
+* [Ruby](ruby)
+* [Scala](scala)
 * [VB.NET](DOT_NET/vb_net_lang "Recursos para Visual Basic") :heavy_exclamation_mark:
 
 ###Server-side Web Frameworks
