@@ -14,7 +14,9 @@ while the Java platform was initially built to support only the Java language, a
 
 * [Java](Java "Recursos para desarrollar en Java")
 
-* [Scala](Scala "Recursos para desarrollar en Java")
+* [Scala](Scala "Recursos para desarrollar en Scala")
+
+* [Groovy](Groovy "Recursos para desarrollar en Groovy")
 
 ####Web Framework
 
