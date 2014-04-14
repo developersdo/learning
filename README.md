@@ -33,6 +33,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Laravel](Web Frameworks/laravel.md)
 * [Ruby on Rails](Web Frameworks/ror.md) :heavy_exclamation_mark:
 * [JavaServer Faces](Java/web_framework_jsf)
+* CodeIgniter :heavy_exclamation_mark:
 
 ###Front-end Frameworks
 * [Angular JS](Web Frameworks/Frontend Frameworks/angularjs.md) :heavy_exclamation_mark:
