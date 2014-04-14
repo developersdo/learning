@@ -15,6 +15,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 
 * [C/C++](C C%2B%2B "Recursos para C/C++")
 * [C#](DOT_NET/c_sharp_lang "recursos para el lenguaje C# de Microsoft")
+* [Groovy](Java/Groovy)
 * [Java](Java/Java)
 * [Javascript](Javascript/README.md)
 * [PHP](PHP) :heavy_exclamation_mark:
@@ -22,18 +23,17 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Ruby](Ruby)
 * [Scala](Java/Scala)
 * [VB.NET](DOT_NET/vb_net_lang "Recursos para Visual Basic") :heavy_exclamation_mark:
-* [Groovy](Java/Groovy)
 
 ###Server-side Web Frameworks
 * [ASP.NET](Web Frameworks/asp_net.md)
 * [CakePHP](Web Frameworks/cake_php.md) :heavy_exclamation_mark:
+* CodeIgniter :heavy_exclamation_mark:
 * [Django](Web Frameworks/django.md) :heavy_exclamation_mark:
 * [ExpressJS](Web Frameworks/express.md)
 * [Flask](Web Frameworks/flask.md) :heavy_exclamation_mark:
+* [JavaServer Faces](Java/web_framework_jsf)
 * [Laravel](Web Frameworks/laravel.md)
 * [Ruby on Rails](Web Frameworks/ror.md) :heavy_exclamation_mark:
-* [JavaServer Faces](Java/web_framework_jsf)
-* CodeIgniter :heavy_exclamation_mark:
 
 ###Front-end Frameworks
 * [Angular JS](Web Frameworks/Frontend Frameworks/angularjs.md) :heavy_exclamation_mark:
@@ -42,9 +42,9 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Knockout JS](Web Frameworks/Frontend Frameworks/knockoutjs.md) :heavy_exclamation_mark:
 
 ###Technology Frameworks
-* [Node.js](Frameworks/nodejs.md)
 * [.NET Framework](DOT_NET)
 * [Java Virtual Machine](Java)
+* [Node.js](Frameworks/nodejs.md)
 
 ###Platforms-as-a-service
 * Amazon Web Services :heavy_exclamation_mark:
@@ -69,8 +69,8 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Redis](redis.md) :heavy_exclamation_mark:
  
 ###Arquitectura de Software
+* [Deployment](Software Architecture/deployment.md) :heavy_exclamation_mark:
 * [Diseño](Software Architecture/design.md)
 * [Metodologías](Software Architecture/methodologies.md)
 * [Prueba](Software Architecture/testing.md) :heavy_exclamation_mark:
-* [Deployment](Software Architecture/deployment.md) :heavy_exclamation_mark:
 * [Refactorización](Software Architecture/refactoring.md)
