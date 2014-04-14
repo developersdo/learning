@@ -27,6 +27,7 @@ El lenguaje se denominó inicialmente Oak (por un roble que había fuera de la
 
 ###Avanzados
 * [Java 8 Lambdas](http://shop.oreilly.com/product/0636920030713.do)
+* [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)
 
 
 ###Especializados
