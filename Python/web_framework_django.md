@@ -4,9 +4,10 @@
 - http://www.djangobook.com/en/2.0/index.html
 
 ###Nivel Intermedio
-- http://lightbird.net/dbe2/
+- http://www.tangowithdjango.com/book/
 
 ###Nivel Avanzado
+- http://lightbird.net/dbe2/
 
 ###Patrones
 - https://djangosnippets.org/snippets/
