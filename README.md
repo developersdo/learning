@@ -44,7 +44,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 ###Technology Frameworks
 * [.NET Framework](DOT_NET)
 * [Java Virtual Machine](Java)
-* [Node.js](Frameworks/nodejs.md)
+* [Node.js](Javascript/NodeJS/readme.md)
 
 ###Platforms-as-a-service
 * Amazon Web Services :heavy_exclamation_mark:
