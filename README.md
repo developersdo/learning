@@ -25,15 +25,15 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [VB.NET](DOT_NET/vb_net_lang "Recursos para Visual Basic") :heavy_exclamation_mark:
 
 ###Server-side Web Frameworks
-* [ASP.NET](Web Frameworks/asp_net.md)
-* [CakePHP](Web Frameworks/cake_php.md) :heavy_exclamation_mark:
+* [ASP.NET](DOT_NET/web_framework_asp_net)
+* [CakePHP](PHP/web_framework_cake_php.md) :heavy_exclamation_mark:
 * CodeIgniter :heavy_exclamation_mark:
-* [Django](Web Frameworks/django.md) :heavy_exclamation_mark:
-* [ExpressJS](Web Frameworks/express.md)
-* [Flask](Web Frameworks/flask.md) :heavy_exclamation_mark:
+* [Django](Python/web_framework_django.md)
+* [ExpressJS](Javascript/NodeJS/web_framework_express.md)
+* [Flask](Python/web_framework_flask.md) :heavy_exclamation_mark:
 * [JavaServer Faces](Java/web_framework_jsf)
-* [Laravel](Web Frameworks/laravel.md)
-* [Ruby on Rails](Web Frameworks/ror.md) :heavy_exclamation_mark:
+* [Laravel](PHP/web_framework_laravel.md)
+* [Ruby on Rails](Ruby/web_framework_ror.md)
 
 ###Front-end Frameworks
 * [Angular JS](Web Frameworks/Frontend Frameworks/angularjs.md) :heavy_exclamation_mark:
