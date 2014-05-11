@@ -1,6 +1,6 @@
 ##C Sharp (#)
 
-C# es un lenguaje de programaci�n moderno, de alto nivel, m�ltiples paradigmas y de uso general para crear aplicaciones con Visual Studio y .NET Framework. Visual C# se dise�� para que fuera simple, poderoso, seguro y orientado a objetos. Es uno de los lenguajes del .NET Framework y Corre dentro del CLR _(citation needed)_
+C# es un lenguaje de programación moderno, de alto nivel, múltiples paradigmas y de uso general para crear aplicaciones con Visual Studio y .NET Framework. Visual C# se diseñó para que fuera simple, poderoso, seguro y orientado a objetos. Es uno de los lenguajes del .NET Framework y Corre dentro del CLR _(citation needed)_
 
 ###Recursos para principiantes:
 * [C# Fundamentals for Absolute Beginners](http://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners) :free:
@@ -23,4 +23,4 @@ C# es un lenguaje de programaci�n moderno, de alto nivel, m�ltiples paradigm
 
 ###Libros
 * [C# In Depth - John Skeet (Amazon)](http://www.amzn.com/161729134X) :moneybag:
-* [C# In a Nutshell - Joseph Albahari (Amazon)](http://www.amzn.com/1449320104) :moneybag: 
+* [C# In a Nutshell - Joseph Albahari (Amazon)](http://www.amzn.com/1449320104) :moneybag:
