@@ -11,9 +11,9 @@ Documentación Oficial: https://developer.mozilla.org/en/docs/Web/JavaScript
 * [Learning Javascript Design Patterns - Addy Osmain](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden) :free:
 * [Eloquent Javascript](http://eloquentjavascript.net/contents.html) :free:
-* [Javascript en Español] (http://librosweb.es/javascript/) :free:
 * [Javascript: The Good Parts - Douglas Crockford (Amazon.com)](http://amzn.com/0596517742) :moneybag:
 * [Secrets of the Javascript ninja - Jon Resig (Amazon.com)](http://amzn.com/193398869X) :moneybag:
 
 ###Tutoriales para principiantes :smirk_cat:
-* [Code Academy - Javascript Track](http://www.codecademy.com/tracks/javascript)
+* [Javascript en Español] (http://librosweb.es/javascript/) :free:
+* [Code Academy - Javascript Track](http://www.codecademy.com/tracks/javascript) :free:
