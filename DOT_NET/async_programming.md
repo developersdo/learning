@@ -20,4 +20,5 @@ operaciones que requieren mucho tiempo (acceso a bases de datos, operaciones I/O
 * [How to Build ASP.NET Web Applications Using Async - Channel 9](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013/DEV-B337#fbid=) :free:
 * [The future of C# and VB.NET - Channel 9](http://channel9.msdn.com/events/PDC/PDC10/FT09/) Esta es con Anders Hejlsberg, el creador de C# :exclamation:
 * [Asynchronous Programming with Async and Await - MSDN](http://msdn.microsoft.com/en-us/library/hh191443.aspx)
+* [Async/Await best practices - MSDN](http://msdn.microsoft.com/en-us/magazine/jj991977.aspx)
 * [Asynchronous C#, by Jon Skeet - Pluralsight](http://pluralsight.com/training/Courses/TableOfContents/skeet-async) :moneybag:
