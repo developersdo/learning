@@ -3,6 +3,7 @@
 C# es un lenguaje de programación moderno, de alto nivel, múltiples paradigmas y de uso general para crear aplicaciones con Visual Studio y .NET Framework. Visual C# se diseñó para que fuera simple, poderoso, seguro y orientado a objetos. Es uno de los lenguajes del .NET Framework y Corre dentro del CLR _(citation needed)_
 
 ###Recursos para principiantes:
+* [Introducion a la programación con C#](http://www.nachocabanes.com/fich/descargar.php?nombre=introCsharp_version099.pdf)
 * [C# Fundamentals for Absolute Beginners](http://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners)
 * [MSDN - Getting Started with C# and VB.NET](http://msdn.microsoft.com/library/vstudio/dd492171(v=vs.120))
 * [What VB Developers should know about C#](http://visualstudiomagazine.com/articles/2008/12/01/what-vb-devs-should-know-about-c.aspx)
