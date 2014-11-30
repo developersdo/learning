@@ -74,3 +74,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Metodologías](Software Architecture/methodologies.md)
 * [Prueba](Software Architecture/testing.md) :heavy_exclamation_mark:
 * [Refactorización](Software Architecture/refactoring.md)
+
+###Otros 
+* [Pensamiento logico](Otros/pensamiento_logico.md)
+* [Tecnologia y emprendimiento](Otros/tecnologia_y_emprendimiento.md)
