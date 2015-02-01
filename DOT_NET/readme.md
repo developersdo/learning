@@ -23,12 +23,15 @@ y el CLR en conjunto constituyen el .NET Framework.
 * [Web](web_framework_asp_net)
 * [Async Programming](async_programming.md)
 
+#### Hosting Platforms
+* [Microsoft Azure](ms_azure.md)
+* Amazon AWS
+
 ####Recursos
 
 * [Overview of the .NET Framework - MSDN](http://msdn.microsoft.com/en-us/library/zw4w595w.aspx)
 * [Overview of the C# Language and the .NET Framework - MSDN](http://msdn.microsoft.com/en-us/library/z1zx9t92.aspx)
 * [.NET Internals and Advanced Debugging - Pluralsight](http://pluralsight.com/training/courses/TableOfContents?courseName=dotnet-internals-adv-debug) :moneybag: (:rocket: Avanzado/Rocket Science)
-* [Overview of windows azure ](http://azure.microsoft.com/en-us/documentation/articles/websites-learning-map/)
 
 ####Libros
 
