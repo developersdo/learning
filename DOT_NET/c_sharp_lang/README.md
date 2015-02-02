@@ -25,3 +25,4 @@ C# es un lenguaje de programación moderno, de alto nivel, múltiples paradigmas
 ###Libros
 * [C# In Depth - John Skeet (Amazon)](http://www.amzn.com/161729134X) :moneybag:
 * [C# In a Nutshell - Joseph Albahari (Amazon)](http://www.amzn.com/1449320104) :moneybag:
+* [Introducion a la programación con C#](http://www.nachocabanes.com/fich/descargar.php?nombre=introCsharp_version099zz.pdf) :free:
