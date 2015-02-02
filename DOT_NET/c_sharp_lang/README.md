@@ -7,7 +7,7 @@ C# es un lenguaje de programación moderno, de alto nivel, múltiples paradigmas
 * [MSDN - Getting Started with C# and VB.NET](http://msdn.microsoft.com/library/vstudio/dd492171(v=vs.120)) :free:
 * [What VB Developers should know about C#](http://visualstudiomagazine.com/articles/2008/12/01/what-vb-devs-should-know-about-c.aspx) :free:
 * [Pluralsight - C# 5.0 Fundamentals](http://pluralsight.com/training/Courses/TableOfContents/csharp-fundamentals-csharp5) :moneybag:
-* [Introducción a la programación con C#](http://www.nachocabanes.com/fich/descargar.php?nombre=introCsharp_version099zz.pdf) :free:
+* [Introducción a la programación con C#](http://www.nachocabanes.com/fich/descargar.php?nombre=introCsharp_version099zz.pdf) :free: :es:
 
 ###Recursos intermedios
 * [Pluralsight - C# Design Strategies - Jon Skeet](http://pluralsight.com/training/courses/TableOfContents?courseName=csharp-design-strategies):moneybag:
