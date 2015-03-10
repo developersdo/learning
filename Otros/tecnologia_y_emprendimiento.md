@@ -1,8 +1,8 @@
 ##Tecnología y Emprendimiento
 
-####Definición y Administración de una startip
+####Definición y Administración de un startup
 
-* The lean Startup
+* The Lean Startup
   * http://theleanstartup.com (site oficial)
   * [Amazon](http://amzn.com/0307887898) :moneybag:
 
