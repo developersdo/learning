@@ -16,3 +16,10 @@
 * [RailsCasts - Ryan Bates (US$9/Month)](http://www.railscasts.com) :moneybag:
 * [Rails for Zombies (US$25/Month)](http://www.codeschool.com) :moneybag:
 * [Jeffrey Way's The Intro to Rails Screencast I Wish I Had](http://www.youtube.com/watch?v=cMcEgOPza8A) (A bit outdated).
+
+###Screencasts
+* [RailsCasts - Ryan Bates (US$9/Month)](http://www.railscasts.com) :moneybag:
+
+###Tutorial
+* [Make a Rails Application](http://www.codecademy.com/learn/make-a-rails-app)
+
