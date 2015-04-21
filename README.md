@@ -36,7 +36,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Ruby on Rails](Ruby/web_framework_ror.md)
 
 ###Front-end Frameworks
-* [Angular JS](Web Frameworks/Frontend Frameworks/angularjs.md) :heavy_exclamation_mark:
+* [Angular JS] (Javascript/Frontend Frameworks/angularjs.md) :heavy_exclamation_mark:
 * [Backbone JS](Web Frameworks/Frontend Frameworks/backbonejs.md) :heavy_exclamation_mark:
 * [Ember JS](Web Frameworks/Frontend Frameworks/emberjs.md) :heavy_exclamation_mark:
 * [Knockout JS](Web Frameworks/Frontend Frameworks/knockoutjs.md) :heavy_exclamation_mark:
