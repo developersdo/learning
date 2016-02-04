@@ -26,9 +26,3 @@ Documentacion oficial https://guides.emberjs.com
 * [Emberconf2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU)
 * [Erik - blog](http://www.programwitherik.com/)
 * [Community Room](http://discuss.emberjs.com/)
-
-
-
-
-
-
