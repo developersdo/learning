@@ -15,16 +15,16 @@ Documentacion oficial https://guides.emberjs.com
 
 ### Principiante
 
-* [Ember-cli 101 - Book by Adolfo Builes](https://leanpub.com/ember-cli-101) :free: :moneybag: 
+* [Ember-cli 101 - Book by Adolfo Builes](https://leanpub.com/ember-cli-101) :free: :moneybag: (opcional) 
 * [Ember in action - Screencast by Rem Zolotykh](https://www.youtube.com/playlist?list=PLuNEz8XtB51JP1O_HRRyEL2V5sdwmoqR_) :free:
-* [Basic tutorial ](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/) :free:
+* [The tech cofounder - Basic tutorial ](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/) :free:
 
 
 ### Interesantes a explorar
 
-* [Noticias](emberweekly.com)
+* [Ember Weekly](http://www.emberweekly.com)
 * [Emberconf2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU)
-* [programwitherick blog](http://www.programwitherik.com/)
+* [Erik - blog](http://www.programwitherik.com/)
 * [Community Room](http://discuss.emberjs.com/)
 
 
