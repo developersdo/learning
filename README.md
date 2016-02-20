@@ -36,14 +36,15 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Ruby on Rails](Ruby/web_framework_ror.md)
 
 ###Front-end Frameworks
-* [Angular JS](Web Frameworks/Frontend Frameworks/angularjs.md) :heavy_exclamation_mark:
-* [Backbone JS](Web Frameworks/Frontend Frameworks/backbonejs.md) :heavy_exclamation_mark:
-* [Ember JS](Web Frameworks/Frontend Frameworks/emberjs.md) :heavy_exclamation_mark:
-* [Knockout JS](Web Frameworks/Frontend Frameworks/knockoutjs.md) :heavy_exclamation_mark:
+--- love
+* [Angular JS](Javascript/Frontend%20Frameworks/angularjs.md) :heavy_exclamation_mark:
+* [Backbone JS](Javascript/Frontend%20Frameworks/backbonejs.md) :heavy_exclamation_mark:
+* [Ember JS](Javascript/Frontend%20Frameworks/emberjs.md) 
+* [Knockout JS](Javascript/Frontend%20Frameworks/knockoutjs.md) :heavy_exclamation_mark:
 
 ###Technology Frameworks
-* [.NET Framework](DOT_NET)
-* [Java Virtual Machine](Java)
+* [.NET Framework] :heavy_exclamation_mark:
+* [Java Virtual Machine]  :heavy_exclamation_mark:
 * [Node.js](Javascript/NodeJS/readme.md)
 
 ###Platforms-as-a-service
@@ -54,25 +55,25 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * Nodejitsu :heavy_exclamation_mark:
 
 ###SQL Databases
-* [MySQL](mysql.md) :heavy_exclamation_mark:
-* [Oracle](oracle.md) :heavy_exclamation_mark:
-* [Postgress](postgress) :heavy_exclamation_mark:
-* [SQL Server](sql_server.md) :heavy_exclamation_mark:
-* [SQL Lite](sql_lite.md) :heavy_exclamation_mark:
+* MySQL :heavy_exclamation_mark:
+* Oracle :heavy_exclamation_mark:
+* Postgress :heavy_exclamation_mark:
+* SQL Server :heavy_exclamation_mark:
+* SQL Lite :heavy_exclamation_mark:
 
 ###NO-SQL Data Stores
-* [Azure Table Storage](azure_table_storage.md) :heavy_exclamation_mark:
-* [CouchDb](couchdb.md) :heavy_exclamation_mark:
-* [Cassandra](cassandra.md) :heavy_exclamation_mark:
-* [Hadoop](hadoop.md) :heavy_exclamation_mark:
-* [Mongo](mongo.md) :heavy_exclamation_mark:
-* [Redis](redis.md) :heavy_exclamation_mark:
+* Azure Table Storage :heavy_exclamation_mark:
+* CouchDb :heavy_exclamation_mark:
+* Cassandra :heavy_exclamation_mark:
+* Hadoop :heavy_exclamation_mark:
+* Mongo :heavy_exclamation_mark:
+* Redis :heavy_exclamation_mark:
  
 ###Arquitectura de Software
-* [Deployment](Software Architecture/deployment.md) :heavy_exclamation_mark:
+* Deployment :heavy_exclamation_mark:
 * [Diseño](Software Architecture/design.md)
 * [Metodologías](Software Architecture/methodologies.md)
-* [Prueba](Software Architecture/testing.md) :heavy_exclamation_mark:
+* Prueba :heavy_exclamation_mark:
 * [Refactorización](Software Architecture/refactoring.md)
 
 ###Otros 
