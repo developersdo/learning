@@ -36,7 +36,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Ruby on Rails](Ruby/web_framework_ror.md)
 
 ###Front-end Frameworks
---- love
+
 * [Angular JS](Javascript/Frontend%20Frameworks/angularjs.md) :heavy_exclamation_mark:
 * [Backbone JS](Javascript/Frontend%20Frameworks/backbonejs.md) :heavy_exclamation_mark:
 * [Ember JS](Javascript/Frontend%20Frameworks/emberjs.md) 
@@ -48,11 +48,11 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Node.js](Javascript/NodeJS/readme.md)
 
 ###Platforms-as-a-service
-* Amazon Web Services :heavy_exclamation_mark:
-* Azure :heavy_exclamation_mark:
-* Engine Yard :heavy_exclamation_mark:
-* Heroku :heavy_exclamation_mark:
-* Nodejitsu :heavy_exclamation_mark:
+* [Amazon Web Services](platforms_as_a_service/AWS.md) :heavy_exclamation_mark:
+* [Azure](platforms_as_a_service/azure.md) :heavy_exclamation_mark:
+* [Engine Yard](platforms_as_a_service/engine_yard.md) :heavy_exclamation_mark:
+* [Heroku](platforms_as_a_service/heroku.md) :heavy_exclamation_mark:
+* [Nodejitsu](platforms_as_a_service) :heavy_exclamation_mark:
 
 ###SQL Databases
 * MySQL :heavy_exclamation_mark:
