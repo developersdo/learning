@@ -27,7 +27,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 ###Server-side Web Frameworks
 * [ASP.NET](DOT_NET/web_framework_asp_net)
 * [CakePHP](PHP/web_framework_cake_php.md) :heavy_exclamation_mark:
-* CodeIgniter :heavy_exclamation_mark:
+* [CodeIgniter](PHP/codeigniter.md) :heavy_exclamation_mark:
 * [Django](Python/web_framework_django.md)
 * [ExpressJS](Javascript/NodeJS/web_framework_express.md)
 * [Flask](Python/web_framework_flask.md) :heavy_exclamation_mark:
@@ -55,25 +55,25 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Nodejitsu](platforms_as_a_service) :heavy_exclamation_mark:
 
 ###SQL Databases
-* MySQL :heavy_exclamation_mark:
-* Oracle :heavy_exclamation_mark:
-* Postgress :heavy_exclamation_mark:
-* SQL Server :heavy_exclamation_mark:
-* SQL Lite :heavy_exclamation_mark:
+* [MySQL](sql_databases/mysql.md) :heavy_exclamation_mark:
+* [Oracle](sql_databases/oracle.md) :heavy_exclamation_mark:
+* [Postgress](sql_databases/postgress.md) :heavy_exclamation_mark:
+* [SQL Server](sql_databases/sql_server.md) :heavy_exclamation_mark:
+* [SQL Lite](sql_databases/sql_lite.md) :heavy_exclamation_mark:
 
 ###NO-SQL Data Stores
-* Azure Table Storage :heavy_exclamation_mark:
-* CouchDb :heavy_exclamation_mark:
-* Cassandra :heavy_exclamation_mark:
-* Hadoop :heavy_exclamation_mark:
-* Mongo :heavy_exclamation_mark:
-* Redis :heavy_exclamation_mark:
+* [Azure Table Storage](no_sql_data_store/azure.md) :heavy_exclamation_mark:
+* [CouchDb](no_sql_data_store/casandra.md) :heavy_exclamation_mark:
+* [Cassandra](no_sql_data_store/couchDB.md) :heavy_exclamation_mark:
+* [Hadoop](no_sql_data_store/hadoop.md) :heavy_exclamation_mark:
+* [Mongo](no_sql_data_store/mongo.md) :heavy_exclamation_mark:
+* [Redis](no_sql_data_store/redis.md) :heavy_exclamation_mark:
  
 ###Arquitectura de Software
-* Deployment :heavy_exclamation_mark:
+* [Deployment](Software Architecture/deployment.md) :heavy_exclamation_mark:
 * [Diseño](Software Architecture/design.md)
 * [Metodologías](Software Architecture/methodologies.md)
-* Prueba :heavy_exclamation_mark:
+* [Prueba](Software Architecture/unitTesting.md) :heavy_exclamation_mark:
 * [Refactorización](Software Architecture/refactoring.md)
 
 ###Otros 
