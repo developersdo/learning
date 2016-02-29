@@ -19,7 +19,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Java](Java/Java)
 * [Javascript](Javascript/README.md)
 * [PHP](PHP) :heavy_exclamation_mark:
-* [Python](Python) :heavy_exclamation_mark:
+* [Python](Python) 
 * [Ruby](Ruby)
 * [Scala](Java/Scala)
 * [VB.NET](DOT_NET/vb_net_lang "Recursos para Visual Basic") :heavy_exclamation_mark:
@@ -37,7 +37,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 
 ###Front-end Frameworks
 
-* [Angular JS](Javascript/Frontend%20Frameworks/angularjs.md) :heavy_exclamation_mark:
+* [Angular JS](Javascript/Frontend%20Frameworks/angularjs.md) 
 * [Backbone JS](Javascript/Frontend%20Frameworks/backbonejs.md) :heavy_exclamation_mark:
 * [Ember JS](Javascript/Frontend%20Frameworks/emberjs.md) 
 * [Knockout JS](Javascript/Frontend%20Frameworks/knockoutjs.md) :heavy_exclamation_mark:
@@ -73,7 +73,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Deployment](Software Architecture/deployment.md) :heavy_exclamation_mark:
 * [Diseño](Software Architecture/design.md)
 * [Metodologías](Software Architecture/methodologies.md)
-* [Prueba](Software Architecture/unitTesting.md) :heavy_exclamation_mark:
+* [Prueba](Software Architecture/UnitTesting.md) :heavy_exclamation_mark:
 * [Refactorización](Software Architecture/refactoring.md)
 
 ###Otros 
