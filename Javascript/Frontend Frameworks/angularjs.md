@@ -32,3 +32,11 @@ Documentación Oficial: [http://docs.angularjs.org/guide](http://docs.angularjs.
     Paso por paso con codigo fuente disponible en github
 
     <https://egghead.io/lessons/angularjs-building-an-angular-app-bootstrapping>
+    
+* Learn AngularJS
+
+    From Codeacademy: Learn to build web apps using AngularJS 1.x. By the end of the course, you'll be able to use AngularJS to create your own apps.
+
+    [Learn AngularJS](www.codecademy.com/learn/learn-angularjs)
+
+    
