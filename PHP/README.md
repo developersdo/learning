@@ -5,5 +5,6 @@ Fue creado originalmente por Rasmus Lerdorf en 1995. Actualmente el lenguaje sig
 
 ###Recursos para Principiantes.
 * [PHP.net](http://www.php.net/) :free:
-* [w3schools](http://www.w3schools.com/PHP/) :free:
 * [Codeacademy](http://www.codecademy.com/tracks/php) :free:
+* [PHPTheRightWay](http://www.phptherightway.com/) :free:
+* [ThePHPLeague](https://thephpleague.com/) :free:
