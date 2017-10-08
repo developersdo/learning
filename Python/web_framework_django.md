@@ -1,7 +1,10 @@
 ##Django
 
+###Documentacion oficial
+- https://docs.djangoproject.com/en/1.11/
+
 ###Nivel Principiante
-- http://www.djangobook.com/en/2.0/index.html
+- https://docs.djangoproject.com/en/1.11/intro
 
 ###Nivel Intermedio
 - http://lightbird.net/dbe2/
