@@ -1,4 +1,4 @@
-##C/C++
+## C/C++
 C es un lenguaje de programación creado en 1972 por Dennis M. Ritchie en los Laboratorios Bell como evolución del anterior lenguaje B, a su vez basado en BCPL.
 
 Al igual que B, es un lenguaje orientado a la implementación de Sistemas Operativos, concretamente Unix. C es apreciado por la eficiencia del código que produce y es el lenguaje de programación más popular para crear software de sistemas, aunque también se utiliza para crear aplicaciones.
@@ -8,7 +8,7 @@ C++ es un lenguaje de programación diseñado a mediados de los años 1980 por B
 
 ------
 
-####Algunos recursos
+#### Algunos recursos
 * [The C Programming Language by Kernighan and Ritchie](http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628) :moneybag:
 * [Learn C the hard way](http://c.learncodethehardway.org/) :free:
 * [C/C++ Reference](http://en.cppreference.com/w/) :free:

@@ -1,4 +1,4 @@
-##Refactorización
+## Refactorización
 
 Code refactoring is the process of restructuring existing computer code – changing the factoring – without 
 changing its external behavior. Refactoring improves nonfunctional attributes of the software. Advantages 
