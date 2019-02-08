@@ -1,4 +1,4 @@
-##.NET FRAMEWORK
+## .NET FRAMEWORK
 
 El .NET Framework (pronunciado "punto net") es un software framework
 desarrollado por Microsoft que corre principalmente sobre Microsoft Windows.
@@ -15,7 +15,7 @@ que no es más que una máquina virtual que provee servicios de: seguridad,
 manejo automatizado de memoria, y manejo de excepciones. La librería de clases
 y el CLR en conjunto constituyen el .NET Framework.
 
-####Lenguajes 
+#### Lenguajes 
 * [C#](c_sharp_lang "Recursos especializados del lenguaje C#")
 * [Visual Basic](vb_net_lang "Recursos especializados del lenguaje Visual Basic")
 
@@ -27,12 +27,12 @@ y el CLR en conjunto constituyen el .NET Framework.
 * [Microsoft Azure](ms_azure.md)
 * Amazon AWS
 
-####Recursos
+#### Recursos
 
 * [Overview of the .NET Framework - MSDN](http://msdn.microsoft.com/en-us/library/zw4w595w.aspx)
 * [Overview of the C# Language and the .NET Framework - MSDN](http://msdn.microsoft.com/en-us/library/z1zx9t92.aspx)
 * [.NET Internals and Advanced Debugging - Pluralsight](http://pluralsight.com/training/courses/TableOfContents?courseName=dotnet-internals-adv-debug) :moneybag: (:rocket: Avanzado/Rocket Science)
 
-####Libros
+#### Libros
 
 * [Under the hood .NET Memory Management (Amazon)](http://amzn.com/1906434751) :moneybag::exclamation: Excelente explicación de como funciona el manejo automático de la memoria en el garbage collector

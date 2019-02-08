@@ -1,4 +1,4 @@
-##Pruebas Unitarias (Unit Testing)
+## Pruebas Unitarias (Unit Testing)
 
 En programación, una prueba unitaria es una forma de probar el correcto
 funcionamiento de un módulo de código.
@@ -9,7 +9,7 @@ entonces el sistema como un conjunto debería funcionar correctamente.
 
 [Fuente: Wikipedia](http://es.wikipedia.org/wiki/Prueba_unitaria)
 
-###Test-Driven-Development (TDD)
+### Test-Driven-Development (TDD)
 TDD es un tema complejo y difícil de aproximar a primera vista. El primer enlace
 en la lista es un demo en vivo de Brad Wilson y Rob Connery y es excelente para
 entender como la metodología funciona.
@@ -28,7 +28,7 @@ Algunos recursos formales:
 * [Ian Cooper: TDD, where did it all go wrong](http://vimeo.com/68375232)?
 
 
-###Behaviour-Drive-Development (BDD)
+### Behaviour-Drive-Development (BDD)
 BDD es un proceso de desarrollo de software basado en Test-Drive-Development que combina
 aspectos de TDD, Domain-Driven Design y Diseño orientado a objetos para proveer a
 desarrolladores de software y analistas de negocios con herramientas compartidas
@@ -40,7 +40,7 @@ que prueban el código.
 
 [Fuente: Wikipedia](http://en.wikipedia.org/wiki/Behavior-driven_development)
 
-####Cucumber
+#### Cucumber
 [Cucumber](http://cukes.info/)  Es una herramienta que facilita
 la escritura de pruebas unitarias en texto puro que es legible para cualquier persona
 sin conocimiento técnico. Utiliza un [Lenguaje de Dominio](http://martinfowler.com/books/dsl.html)

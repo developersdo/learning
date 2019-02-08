@@ -1,10 +1,10 @@
-##Pensamiento Logico
+## Pensamiento Logico
 
 A continuación algunos recursos que tratan el proceso de aprendizaje y de como
 poner y aplicar ideas en los contextos adecuados para resolver problemas
 
 
-####Pragmatic Thinking and Learning - Andy Hunt
+#### Pragmatic Thinking and Learning - Andy Hunt
 
 Este libro es de Andy Hunt, es el escritor del famoso "Programador Pragmático". Es uno de los mejores libros que he leído en mi vida (Amhed)
 
@@ -12,7 +12,7 @@ Este libro es de Andy Hunt, es el escritor del famoso "Programador Pragmático".
 * [Amazon.com](http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050):moneybag:
 
 
-####Clear and Present Thinking - A handbook in logic and rationality :free:
+#### Clear and Present Thinking - A handbook in logic and rationality :free:
 
 Este libro surgió a partir de una campaña en Kickstarter para generar un
 libro gratis que pueda ser usado en universidades y trate el tema del pensamiento.

@@ -1,16 +1,16 @@
-##Django
+## Django
 
-###Nivel Principiante
+### Nivel Principiante
 - http://www.djangobook.com/en/2.0/index.html
 
-###Nivel Intermedio
+### Nivel Intermedio
 - http://lightbird.net/dbe2/
 
-###Nivel Avanzado
+### Nivel Avanzado
 
-###Screencasts
+### Screencasts
 - [GoDjango](https://godjango.com/) :moneybag:
  
-###Patrones
+### Patrones
 - https://djangosnippets.org/snippets/
 - http://snipplr.com/search.php?q=django&btnsearch=go
