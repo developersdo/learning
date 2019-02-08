@@ -13,7 +13,7 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 
 ### Lenguajes:
 
-* [C/C++](C C%2B%2B "Recursos para C/C++")
+* [C/C++](C%20C%2B%2B "Recursos para C/C++")
 * [C#](DOT_NET/c_sharp_lang "recursos para el lenguaje C# de Microsoft")
 * [Groovy](Java/Groovy)
 * [Java](Java/Java)
@@ -72,11 +72,11 @@ Si tienes un libro, tutorial, o recurso que recomiendas puedes hacer un pull req
 * [Redis](no_sql_data_store/redis.md) :heavy_exclamation_mark:
  
 ### Arquitectura de Software
-* [Deployment](Software Architecture/deployment.md) :heavy_exclamation_mark:
-* [Diseño](Software Architecture/design.md)
-* [Metodologías](Software Architecture/methodologies.md)
-* [Prueba](Software Architecture/UnitTesting.md) :heavy_exclamation_mark:
-* [Refactorización](Software Architecture/refactoring.md)
+* [Deployment](Software%20Architecture/deployment.md) :heavy_exclamation_mark:
+* [Diseño](Software%20Architecture/design.md)
+* [Metodologías](Software%20Architecture/methodologies.md)
+* [Prueba](Software%20Architecture/UnitTesting.md) :heavy_exclamation_mark:
+* [Refactorización](Software%20Architecture/refactoring.md)
 
 ### Otros 
 * [Pensamiento logico](Otros/pensamiento_logico.md)
