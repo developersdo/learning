@@ -18,3 +18,6 @@ Documentación Oficial: https://developer.mozilla.org/en/docs/Web/JavaScript
 ### Tutoriales para principiantes :smirk_cat:
 * [Javascript en Español](http://librosweb.es/javascript/) :free:
 * [Code Academy - Javascript Track](http://www.codecademy.com/tracks/javascript) :free:
+
+### Libros
+* [You Don't Know JS (Serie Completa)](https://github.com/getify/You-Dont-Know-JS) :free: Online
