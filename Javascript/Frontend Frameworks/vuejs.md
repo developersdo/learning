@@ -1,6 +1,6 @@
 ![Vue JS](https://vuejs.org/images/logo.png)
 
-##Vue JS
+## Vue JS
 
 Vue.js es un framework moderno, elegante, versátil y minimalista que te permitirá estructurar tus proyectos de forma modular, siguiendo las mejores prácticas.
 
@@ -8,9 +8,9 @@ Vue.js es un framework moderno, elegante, versátil y minimalista que te permiti
 
 Documentación Oficial: [https://vuejs.org/v2/guide/](https://vuejs.org/v2/guide/)
 
-###Recursos
+### Recursos
 
-####Cursos en Español
+#### Cursos en Español
 
 * Aprende Vue2 y Firebase paso a paso.
 
