@@ -1,4 +1,4 @@
-##Laravel
+## Laravel
 
 Laravel es un framework web escrito en PHP con una sintaxis expresiva y elegante, nace ante la necesidad de traer buenas prácticas y código de calidad a la comunidad de PHP. Según su propia descripción buscan que desarrollar sea divertido de nuevo y este está muy influenciado por otros frameworks web:
 
