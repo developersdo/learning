@@ -4,7 +4,9 @@ PHP es un lenguaje de programació de uso general de código del lado del servid
 Fue creado originalmente por Rasmus Lerdorf en 1995. Actualmente el lenguaje sigue siendo desarrollado con nuevas funciones por el grupo PHP. Este lenguaje forma parte del software libre publicado bajo la licencia PHP, que es incompatible con la Licencia Pública General de GNU debido a las restricciones del uso del término PHP.
 
 ### Recursos para Principiantes.
-* [PHP.net](http://www.php.net/) :free:
+* [PHP.net](http://www.php.net/manual/es) :free:
 * [Codeacademy](http://www.codecademy.com/tracks/php) :free:
-* [PHPTheRightWay](http://www.phptherightway.com/) :free:
-* [ThePHPLeague](https://thephpleague.com/) :free:
+* [PHPTheRightWay](http://www.phptherightway.com) :free:
+* [ThePHPLeague](https://thephpleague.com) :free:
+* [Tutorialspoint](https://www.tutorialspoint.com/php) :free:
+* [Laracast](https://laracasts.com) :moneybag:
