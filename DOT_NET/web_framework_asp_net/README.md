@@ -1,4 +1,4 @@
-##ASP.NET
+## ASP.NET
 
 ASP.NET es un framework para crear aplicaciones web
 escalables basadas en estándares, utilizando patrones de diseño bien establecidos
@@ -13,11 +13,11 @@ diferentes tipos de aplicaciones.
 **Todas las soluciones descritas a continuación corren bajo el mismo framework
 aunque sirven para propósitos distintos:**
 
-####Websites
+#### Websites
 
 >Para creación de websites existen dos enfoques principales: WebForms y MVC.
 
-#####Webforms
+##### Webforms
 Webforms nace como un intento de parte de Microsoft de traer al público que trabajaba con
 Visual Basic 6 desarrollando windows forms en un ambiente RAD. Los formularios son
 desarrollados usando archivos .ASPX que permiten declarar en un mismo archivo código HTML
@@ -32,7 +32,7 @@ webforms muchas prácticas y funcionalidades de MVC.
 * [Getting started with ASP.NET 4.5 Web Forms - ASP.NET](http://www.asp.net/web-forms/tutorials/aspnet-45/getting-started-with-aspnet-45-web-forms/introduction-and-overview)
 * [Introduction to ASP.NET WebForms - Pluralsight](http://pluralsight.com/training/courses/TableOfContents?courseName=aspdotnet-webforms4-intro) :moneybag:
 
-#####MVC
+##### MVC
 
 Fue el primer proyecto del stack de Microsoft en ser liberado bajo una licencia Open Source.
 
@@ -53,7 +53,7 @@ ASP.NET.
 * [Professional ASP.NET MVC 5 - Amazon](http://amzn.com/1118794753) :moneybag: Escrito por el equipo que hizo ASP.NET MVC
 * [In Depth: The ASP.NET MVC Pipeline - Steve Sanderson](http://blog.stevensanderson.com/2007/11/20/aspnet-mvc-pipeline-lifecycle/) :rocket: (Rocket Science)
 
-####APIs
+#### APIs
 Debido al auge de aplicaciones web abiertas, que extienden su funcionalidad exponiendo
 métodos públicos a través de la web para que los developers construyan sobre ellas,
 Microsoft publicó en el 2012 una forma más fácil de crear servicios tipo [REST]](http://en.wikipedia.org/wiki/Representational_state_transfer)
@@ -69,12 +69,12 @@ con mínima intervención por parte del programador.
 * [WCF or ASP.NET Web API? - The Code Project Article](http://www.codeproject.com/Articles/341414/WCF-or-ASP-NET-Web-APIs-My-two-cents-on-the-subjec)
 * [Introduction to the ASP.NET Web API - Pluralsight](http://www.pluralsight.com/training/Courses/TableOfContents/aspnetwebapi) :moneybag:
 
-#####SignalR
+##### SignalR
 Es la implementación de [Web Sockets](http://en.wikipedia.org/wiki/WebSocket) para el .NET Framework
 
 * [Introduction to SignalR - ASP.NET](http://www.asp.net/signalr/overview/signalr-20/getting-started-with-signalr-20/introduction-to-signalr)
 
-####OWIN/KATANA
+#### OWIN/KATANA
 
 OWIN son las siglas del `Open Web Interface for .NET`. Una especificación que crea una
 abstracción entre servidores web y aplicaciones web. Es efectivamente un desacoplamiento

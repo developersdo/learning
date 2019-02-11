@@ -1,4 +1,4 @@
-##Scala
+## Scala
 
 Scala is an object-functional programming and scripting language for general software applications, statically typed, designed to concisely express solutions in an elegant, type-safe and lightweight (low ceremonial) manner. 
 
@@ -10,10 +10,10 @@ The name Scala is a portmanteau of "scalable" and "language", signifying that it
 
 [Fuente: Wikipedia](http://en.wikipedia.org/wiki/Scala_%28programming_language%29)
 
-####Recursos
+#### Recursos
 
 * [Tutorial Oficial](http://docs.scala-lang.org/tutorials/) :free:
 
-####Libros
+#### Libros
 * [Scala in Action](http://www.amazon.com/Scala-Action-Nilanjan-Raychaudhuri/dp/1935182757/ref=sr_1_4?s=books&ie=UTF8&qid=1396975387&sr=1-4) :moneybag:
 * [Play for Scala](http://www.amazon.com/Play-Scala-Covers-2/dp/1617290793/ref=sr_1_7?s=books&ie=UTF8&qid=1396975387&sr=1-7) :moneybag:

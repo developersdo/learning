@@ -1,4 +1,4 @@
-##Java (software platform)
+## Java (software platform)
 
 Java is a set of several computer software products and specifications from Oracle (which has since merged with Oracle Corporation), 
 that together provide a system for developing application software and deploying it in a cross-platform computing environment. 
@@ -10,7 +10,7 @@ while the Java platform was initially built to support only the Java language, a
 
 [Fuente: Wikipedia](http://en.wikipedia.org/wiki/Java_%28software_platform%29 "Java (Software Platform)")
 
-####Recursos
+#### Recursos
 
 * [Java](Java "Recursos para desarrollar en Java")
 
@@ -18,6 +18,6 @@ while the Java platform was initially built to support only the Java language, a
 
 * [Groovy](Groovy "Recursos para desarrollar en Groovy")
 
-####Web Framework
+#### Web Framework
 
 * [JavaServer Faces](web_framework_jsf "Recursos para aprender a usar JSF")
