@@ -11,7 +11,8 @@ Documentación Oficial: http://www.laravel.com/docs
 [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) :moneybag:
 
 #### Videos
-[Laracasts - Jeffrey Way](https://laracasts.com/) :moneybag:
+- [Laracasts - Jeffrey Way](https://laracasts.com/) :moneybag:
+- [DEVDOJO - Tony Lea](https://devdojo.com/) :moneybag:
 
 #### Otros
 ...
