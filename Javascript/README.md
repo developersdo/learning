@@ -1,10 +1,15 @@
-## Javascript
 
-JavaScript (a veces abreviado como JS) es un lenguaje ligero e interpretado,
-orientado a objetos, más conocido como el lenguaje de script para páginas web,
-pero también usado en muchos entornos sin navegador (el más conocido siendo NodeJS).
+<p align="center">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50"/>
+</p>
 
-Documentación Oficial: https://developer.mozilla.org/en/docs/Web/JavaScript
+## JavaScript 
+
+JavaScript es un lenguaje interpretado que soporta múltiples paradigmas de programación, originalmente era un lenguaje de scripts utilizado para agregar interactividad a las páginas web. Actualmente el estándar de JavaScript(ECMAScript) es bastante completo por lo que se puede desarrollar todo tipo de aplicaciones tanto de servidor, escritorio, clientes móviles y sistemas embebidos, esto es gracias a que JavaScript soporta múltiples entornos de ejecución entre ellos los navegadores web más conocidos y entornos con subsistemas propios como Node.js y Deno.
+
+📙 Estándar ECMAScript: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+
+🦊 Documentación por parte de la fundación mozilla: https://developer.mozilla.org/en/docs/Web/JavaScript
 
 ### Algunos recursos
 
